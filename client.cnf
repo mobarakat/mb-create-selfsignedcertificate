@@ -1,0 +1,18 @@
+[ req ]
+# Options for the `req` tool (`man req`).
+default_bits        = 4096
+days                = 9999
+distinguished_name  = req_distinguished_name
+prompt              = no
+
+[ req_distinguished_name ]
+countryName                     = GR
+stateOrProvinceName             = Bavaria
+localityName                    = MB_CLIENT
+0.organizationName              = Mohamed Barakat
+organizationalUnitName          = R&D
+commonName                      = MB_CN
+emailAddress                    = mohamed.fouad.barakat@gmail.com
+
+
+
