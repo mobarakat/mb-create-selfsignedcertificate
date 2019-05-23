@@ -82,3 +82,6 @@ you can verify client certificate using CA or server certificates as following:
 openssl verify -CAfile cert-authority-crt.pem client-crt.pem
 ```
 
+
+
+_If you want to test using nodejs please check [here](https://github.com/mobarakat/mb-nodjs-client_server-selfsignedcertificate)_
