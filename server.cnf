@@ -11,7 +11,7 @@ stateOrProvinceName             = Bavaria
 localityName                    = MB_SERVER
 0.organizationName              = Mohamed Barakat
 organizationalUnitName          = R&D
-commonName                      = MB_CN
+commonName                      = localhost
 emailAddress                    = mohamed.fouad.barakat@gmail.com
 
 
